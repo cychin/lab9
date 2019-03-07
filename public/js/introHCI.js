@@ -23,3 +23,4 @@ function getLabElementId(id){
     var labElementId = '#lab_' + id;
     return labElementId;
 }
+
